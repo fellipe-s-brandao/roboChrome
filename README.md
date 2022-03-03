@@ -1,4 +1,4 @@
-# Robo com JS
+# Robô com JS
 * Utilização do da lib puppeteer e readline-sync
 
 ## Exemplo da aplicação 
