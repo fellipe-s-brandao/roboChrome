@@ -1,7 +1,7 @@
 const puppeteer = require('puppeteer');
 var readlineSync = require('readline-sync');
 
-console.log('robo rodando');
+console.log('BOT conversor de moedas 💰🤖');
 
 async function robo(){
     const browser = await puppeteer.launch();
